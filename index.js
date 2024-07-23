@@ -15,21 +15,21 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'The Charmer\'s Call',
+        displayName: 'ATTRACTION - SUKHA',
         cover: 'assets/1.jpg',
-        artist: 'Hanu Dixit',
+        artist: 'PRODGK',
     },
     {
         path: 'assets/2.mp3',
-        displayName: 'You Will Never See Me Coming',
+        displayName: 'FOREVER - TEGI PANNU',
         cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
+        artist: 'Saurabh Bhati',
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'Intellect',
+        displayName: 'One Love (Official Audio)',
         cover: 'assets/3.jpg',
-        artist: 'Yung Logos',
+        artist: 'Shubh',
     }
 ];
 
